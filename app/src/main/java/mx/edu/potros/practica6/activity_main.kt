@@ -1,9 +1,11 @@
-package mx.edu.potros.practica6
+package mx.edu.potros.practica6.mx.edu.potros.practica6
 
 import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.widget.Button
+import mx.edu.potros.practica6.R
+import mx.edu.potros.practica6.catalogo
 
 class activity_main : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {

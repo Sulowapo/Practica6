@@ -19,7 +19,7 @@
             android:name=".detalle_pelicula"
             android:exported="false" />
         <activity
-            android:name=".activity_main"
+            android:name=".mx.edu.potros.practica6.activity_main"
             android:exported="false" />
         <activity
             android:name=".MainActivity"

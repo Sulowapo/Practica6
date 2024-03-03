@@ -6,7 +6,7 @@
     android:layout_height="match_parent"
     android:orientation="vertical"
     android:background="@color/black"
-    tools:context=".activity_main">
+    tools:context=".mx.edu.potros.practica6.activity_main">
 
     <ImageView
         android:layout_width="match_parent"
